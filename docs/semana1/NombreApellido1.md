@@ -23,7 +23,7 @@ Si surge una disputa legal, una auditoría externa rigurosa o un desacuerdo con 
 
 > Cómo lo resuelven hoy las personas afectadas y qué les cuesta en dinero, tiempo o esfuerzo.
 
-Hoy en día se resuelve mediante auditorías anuales, entidades certificadoras y notarías. Esto les cuesta a las empresas entre $5,000 y más de $30,000 USD anuales en tarifas directas, además de cientos de horas administrativas perdidas y la pérdida total de valor en proyectos de I+D inactivos que no se pueden monetizar de forma segura. INDUSTRIA OS resuelve este problema automatizando la verificación criptográfica y anclando los hashes de los proyectos directamente en la blockchain de Stellar, reemplazando la confianza manual en terceros por una validación instantánea y matemáticamente segura a una fracción de centavo por transacción.
+Hoy en día se resuelve mediante auditorías anuales, entidades certificadoras y notarías. Esto les cuesta a las empresas entre $5,000 y más de $30,000 USD anuales en tarifas directas, además de cientos de horas perdidas de personal multidisciplinario y administrativo; y la pérdida total de valor en proyectos de I+D inactivos que no se pueden monetizar de forma segura. INDUSTRIA OS resuelve este problema automatizando la verificación criptográfica y anclando los hashes de los proyectos directamente en la blockchain de Stellar, reemplazando la confianza manual en terceros por una validación instantánea y matemáticamente segura a una fracción de centavo por transacción.
 
 ## ¿Por qué creo que blockchain podría aportar?
 
