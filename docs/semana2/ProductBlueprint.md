@@ -127,32 +127,7 @@ El lienzo debe cubrir: problema, segmento de usuarios, propuesta de valor única
 
 **Diagrama (imagen o enlace):** 
 
-[ CAPA 1: INTERFAZ ]         ┌───────────────────────────────────────────────┐
-  (Frontend / API REST)       │            [ CAPA 2: LÓGICA INTERNA ]          |
-                              │  - Project Data & Dominios (Product, etc.)    │
-  - Creación de Proyecto ───► │  - Information & Feasibility Engine (3 Est.)  │
-  - Inserción de Fórmula  ───► │  - EvidenceEngine & SQLite (Trazabilidad)     │
-  - Solicitud de Cert.    ───► │  - Verification & Certification Engines       │
-                              └──────────────────────┬────────────────────────┘
-                                                     │
-                                                     ▼ (Certificado 100% VERIFICADO)
-                                        [ Canonicalización & SHA-256 ]
-                                                     │
-                                                     ▼
-                             ┌───────────────────────────────────────────────┐
-                             │          [ CAPA 3: RED BLOCKCHAIN ]           │
-                             │                                               │
-                             │    Stellar Network / Testnet (Soroban)      │
-                             │   - Smart Contract almacena el Hash           │
-                             │   - Inmutabilidad y Auditoría Externa         │
-                             └──────────────────────┬────────────────────────┘
-                                                     │
-                                                     ▼
-                             ┌───────────────────────────────────────────────┐
-                             │          [ VERIFICACIÓN PÚBLICA ]             │
-                             │   - Código QR en empaque físico               │
-                             │   - Endpoint `/verify/{attestation_id}`       │
-                             └───────────────────────────────────────────────┘
+<img width="877" height="680" alt="image" src="https://github.com/user-attachments/assets/807d5fbc-b48c-4396-9920-756abb0d7642" />
 
 
 
