@@ -127,7 +127,7 @@ El lienzo debe cubrir: problema, segmento de usuarios, propuesta de valor única
 
 **Diagrama (imagen o enlace):** 
 
-<img width="877" height="680" alt="image" src="https://github.com/user-attachments/assets/807d5fbc-b48c-4396-9920-756abb0d7642" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/807d5fbc-b48c-4396-9920-756abb0d7642" />
 
 
 
