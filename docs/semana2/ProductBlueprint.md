@@ -127,9 +127,7 @@ El lienzo debe cubrir: problema, segmento de usuarios, propuesta de valor única
 
 **Diagrama (imagen o enlace):** 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/807d5fbc-b48c-4396-9920-756abb0d7642" />
-
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ab85cc7a-ff8e-4533-8260-dfe0e1883bf1" />
 
 
 | Capa | Componente | Qué hace |
