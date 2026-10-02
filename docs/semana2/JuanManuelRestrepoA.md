@@ -22,7 +22,7 @@
 
 5. Como auditor de cumplimiento y certificación, quiero que el sistema impida emitir una certificación formal si existen resultados de verificación pendientes o inconclusos, para garantizar que solo lotes 100% verificados reciban luz verde.
 
-6. Como responsable de tecnología y cumplimiento normativo, quiero generar un hash criptográfico del certificado y anclarlo automáticamente en un contrato inteligente de Stellar Testnet (Soroban), para disponer de una prueba externa inalterable e independiente de nuestra base de datos interna.
+6. Como responsable de tecnología y cumplimiento normativo, quiero generar un hash criptográfico del certificado y anclarlo automáticamente en un contrato inteligente, para disponer de una prueba externa inalterable e independiente de nuestra base de datos interna.
 
 7. Como cliente B2B o consumidor final, quiero escanear un código QR físico en el empaque del producto o lote, para comprobar instantáneamente en una página web pública la validez del certificado, el hash y su atestación sin requerir acceso al sistema interno.
 
