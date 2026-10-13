@@ -1,0 +1,33 @@
+{
+  "name": "pasaporte-lote",
+  "version": "1.0.0",
+  "description": "This repository uses the recommended structure for a Soroban project:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://restrepojuanm83-cloud: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@github.com/restrepojuanm83-cloud/pasaporte-lote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/restrepojuanm83-cloud/pasaporte-lote/issues"
+  },
+  "homepage": "https://github.com/restrepojuanm83-cloud/pasaporte-lote#readme",
+  "dependencies": {
+    "@stellar/freighter-api": "^6.0.1",
+    "@stellar/stellar-sdk": "^17.0.1",
+    "axios": "^1.20.0",
+    "dotenv": "^17.4.2",
+    "form-data": "^4.0.6",
+    "next": "^16.3.5",
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
