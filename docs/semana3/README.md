@@ -10,9 +10,9 @@ Este repositorio contiene el prototipo y flujo principal del MVP para la gestió
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado en tu equipo:
 
-* **Node.js**: v18.0.0 o superior
-* **npm**: v9.0.0 o superior (o `yarn` / `pnpm`)
-* **Rust & Soroban CLI** *(Opcional, solo si deseas recompilar los contratos en `/contracts`)*
+* **Node.js**
+* **npm**
+* **Rust & Soroban CLI**
 
 ---
 
